@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\nonsystem\git\github\MT6815\MT6815\Project Outputs for MT6815\Pick Place for MT6815.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       02/04/20,,,,,,,
+Time:       16:12,,,,,,,
+Revision:   4169161f41c5ec5a9faa4b9393828c392a78b1e4,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mil,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description
+U1,MT6815CT,TopLayer,SOIC-8,0.000mil,0.000mil,360,
+C2,100nF/16V,TopLayer,C0402,-130.000mil,-125.000mil,180,Capacitor
+C1,2.2uF/16V,TopLayer,C0603,170.000mil,-220.000mil,270,
